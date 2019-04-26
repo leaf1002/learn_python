@@ -7,8 +7,8 @@ Summary of learning Python
 
 2.常用的时间函数   util_datetime.py
 
-3.最少重复的数据
+3.最少重复的数据   min_repeat.py
 
-4.
+4.获取随机的一个10进制数据
 
 
